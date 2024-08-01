@@ -1,0 +1,26 @@
+body{
+    font-family: "cairo"sans-serif !important;
+    background-color: #306761 ;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100% ;
+    max-width:800%;
+}
+.contact-form {
+    max-width: 80%;
+}
+.main-data-sec {
+    background-color: #a7a2a2;
+    margin-top: 200px;
+}
+.main-data-sec .main-img{
+    margin-top: -120px;
+}
+.contact-form form {
+    width: 90%;
+}
+.head-sec img{
+    max-height: 30px;
+}
